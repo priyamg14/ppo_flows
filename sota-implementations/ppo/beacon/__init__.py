@@ -1,0 +1,1 @@
+from .beacon_env import make_beacon_env
